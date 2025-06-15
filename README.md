@@ -1,4 +1,4 @@
-# Siber Güvenlik Uygulama Raporları – Hilal Öklük
+# Siber Güvenlik Uygulama Raporları 
 
 Bu repository, Hilal Öklük tarafından gerçekleştirilen uygulamalı siber güvenlik senaryolarına ait teknik raporları ve sunumları içermektedir.
 
